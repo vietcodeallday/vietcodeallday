@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Viet</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Fucking+There!+👋;+I'm+Vu+Quoc+Viet!;" />
+</h1>
 <h3 align="center">A developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/839025/screenshots/3392489/media/363663da2b8fc66bf677739518bcc2e6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vietcodeallday&label=Profile%20views&color=0e75b6&style=flat" alt="vietcodeallday" /> </p>
